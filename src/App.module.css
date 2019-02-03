@@ -1,0 +1,18 @@
+.App-class {
+  text-align: center;
+}
+.App2{
+  background: #eeeeee
+}
+
+.table td, .table th{
+  text-align: center;
+}
+
+.form-control{
+  width: 100% !important;
+}
+
+.form-inline{
+  justify-content: center;
+}
